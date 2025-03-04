@@ -1,0 +1,2 @@
+# penambangan-data
+Web Statis
